@@ -1,9 +1,9 @@
 ## About Me / 自己紹介
 💁🏻 I'm an SRE Engineer at Money Forward Kessai in Japan and 4th-year university student at Kyushu Institute of Technology. I'm Majoring in Systems and Control Engineering. </br>
-マネーフォワードケッサイ SREエンジニア。九州工業大学情報工学部４年生。システム制御工学専攻。
+マネーフォワードケッサイ SREエンジニア。九州工業大学情報工学部４年。システム制御工学専攻。
 
 ## Languages・Frameworks / 言語やフレームワークなど
-[![Language](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,mysql,postgres,prometheus,py,rails,raspberrypi,ruby,terraform,ubuntu,vim,bash&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,mysql,postgres,prometheus,py,rails,raspberrypi,ruby,terraform,ubuntu,vim,bash&theme=light)](https://skillicons.dev)
 
 ## Certifications / 取得資格
  | Certification | date 
