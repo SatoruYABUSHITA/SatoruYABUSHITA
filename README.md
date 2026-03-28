@@ -5,7 +5,7 @@
 ## Languages・Frameworks / 言語やフレームワークなど
 [![Language](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,mysql,postgres,prometheus,py,rails,raspberrypi,ruby,terraform,ubuntu,vim,bash&theme=dark)](https://skillicons.dev)
 
-## certifications / 取得資格
+## Certifications / 取得資格
  | Certification | date 
  |-----------------|------|
  |基本情報技術者|2023/11|
@@ -21,13 +21,16 @@
  |AWS SAA|2026/03|
  |TOEIC L&R 865|2025/03|
 
- ## others / その他
- ### contests /　コンテスト 
+ ## Others / その他
+ ### Contests /　コンテスト 
  Won awards e-ZUKA smart app contest 2025🏆 </br>
  e-ZUKAスマートアプリコンテスト2025で賞を受賞🏆　</br>
  👉 https://e-zuka.info/2025/result </br></br>
 
- ### Articles </br>
+ Won 1st place award KIT x APU x Science Tokyo Hackathon 2026🏆 </br>
+ KIT x APU x Science Tokyo Hackathon 2026 優勝🏆 </br>
+
+ ### Articles / 記事 </br>
  🐌[Automating RDS Slow Query Detection and Performance Tuning](https://moneyforward-dev.jp/entry/2026/03/18/154932)
 
  
