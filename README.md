@@ -28,7 +28,7 @@
  👉 https://e-zuka.info/2025/result </br></br>
 
  Won 1st place award KIT x APU x Science Tokyo Hackathon 2026🏆 </br>
- KIT x APU x Science Tokyo Hackathon 2026 優勝🏆 </br>
+ Kyutech x APU x Science Tokyo Hackathon 2026 優勝🏆 </br>
 
  ### Articles / 記事 </br>
  🐌[Automating RDS Slow Query Detection and Performance Tuning](https://moneyforward-dev.jp/entry/2026/03/18/154932)
